@@ -27,7 +27,7 @@ const meta = [{
   key: 'social-buttons',
   id: 'c801e',
   props: {
-    url: 'https://mnpjs.github.io/splendid/',
+    url: 'https://art-deco.github.io/test/',
     meta: 'true',
     className: 'b-xq b-Hk',
     mount: '/splendid/',
